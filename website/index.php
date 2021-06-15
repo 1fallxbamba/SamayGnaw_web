@@ -284,7 +284,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">Ce fut une véritable expérience pour chacun d'entre nous car en utilisant les diférents outils adéquats pour la mise en place de ces structures s'est avéré intéressant et instructif .</p></div>
+                    <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">Ce fut une véritable expérience pour chacun d'entre nous car l'utilsation des différents outils adéquats pour la mise en place de ces structures s'est avérée intéressante et instructive .</p></div>
                 </div>
             </div>
         </section>
