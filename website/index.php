@@ -32,7 +32,7 @@
                         <li class="nav-item"><a class="nav-link" href="#about">A Propos</a></li>
                         <li class="nav-item"><a class="nav-link" href="#team">L'équipe</a></li>
                         <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
-                        <li class="nav-item"><a class="nav-link" href="inscription.php">S'inscrire</a></li>
+                        <li class="nav-item"><a class="nav-link" href="registration/index.php">S'inscrire</a></li>
 
                     </ul>
                 </div>
@@ -51,7 +51,7 @@
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Services</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                                 
                 </div>
                 <div class="row text-center">
                     <div class="col-md-4">
@@ -59,16 +59,27 @@
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3">E-Commerce</h4>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        <h4 class="my-3">Produits</h4>
+                        <p class="text-muted">Création de site web <br>
+                        Création d'application mobiles <br>
+                        Création de logos personnalisés <br>
+                        Création de CV personnalisés<br>
+                        Maintenance informatique <br>
+
+
+    
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3">Responsive Design</h4>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        <h4 class="my-3">Centre d'intérêt </h4>
+                        <p class="text-muted">Chercheur informatique <br>
+                        Chercheur en islam <br>
+                        Association d'aides <br>
+                        Chants Religieux  .</p>
+                       
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
@@ -76,7 +87,7 @@
                             <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="my-3">Web Security</h4>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        <p class="text-muted"> Sécuriser nos applications et sites web pour éviter le piratage et les vols de données .</p>
                     </div>
                 </div>
             </div>
@@ -86,7 +97,7 @@
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Modèles</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted">Documentation sur la couture.</h3>
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-sm-6 mb-4">
@@ -96,10 +107,10 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/20.jpg" alt="..." />
+                                <img class="img-fluid" src="assets/img/photo/form.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Threads</div>
+                                <div class="portfolio-caption-heading">Formation couture</div>
                                 <div class="portfolio-caption-subheading text-muted">Illustration</div>
                             </div>
                         </div>
@@ -111,26 +122,11 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/2.jpg" alt="..." />
+                                <img class="img-fluid" src="assets/img/photo/tissus.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Explore</div>
-                                <div class="portfolio-caption-subheading text-muted">Graphic Design</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6 mb-4">
-                        <!-- Modèle 3-->
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal3">
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
-                                </div>
-                                <img class="img-fluid" src="assets/img/portfolio/3.jpg" alt="..." />
-                            </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Finish</div>
-                                <div class="portfolio-caption-subheading text-muted">Identity</div>
+                                <div class="portfolio-caption-heading">Découvrir</div>
+                                <div class="portfolio-caption-subheading text-muted">Exemple de tissus</div>
                             </div>
                         </div>
                     </div>
@@ -141,14 +137,30 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/4.jpg" alt="..." />
+                                <img class="img-fluid" src="assets/img/photo/mat.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Lines</div>
-                                <div class="portfolio-caption-subheading text-muted">Branding</div>
+                                <div class="portfolio-caption-heading">Outils </div>
+                                <div class="portfolio-caption-subheading text-muted">Nécessaire pour la couture</div>
                             </div>
                         </div>
                     </div>
+                    <div class="col-lg-4 col-sm-6 mb-4">
+                        <!-- Modèle 3-->
+                        <div class="portfolio-item">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal3">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                </div>
+                                <img class="img-fluid" src="assets/img/photo/0.jpg" alt="..." />
+                            </a>
+                            <div class="portfolio-caption">
+                                <div class="portfolio-caption-heading">Croquis</div>
+                                <div class="portfolio-caption-subheading text-muted">Modèle et croquis habits</div>
+                            </div>
+                        </div>
+                    </div>
+                  
                     <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
                         <!-- Modèle 5-->
                         <div class="portfolio-item">
@@ -156,11 +168,11 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/5.jpg" alt="..." />
+                                <img class="img-fluid" src="assets/img/portfolio/20.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Southwest</div>
-                                <div class="portfolio-caption-subheading text-muted">Website Design</div>
+                                <div class="portfolio-caption-heading">Mesures</div>
+                                <div class="portfolio-caption-subheading text-muted">Prise de mesure</div>
                             </div>
                         </div>
                     </div>
@@ -171,11 +183,11 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/6.jpg" alt="..." />
+                                <img class="img-fluid" src="assets/img/photo/def.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Window</div>
-                                <div class="portfolio-caption-subheading text-muted">Photography</div>
+                                <div class="portfolio-caption-heading">Failles du métier</div>
+                                <div class="portfolio-caption-subheading text-muted">Les problémes que rencontrent les tailleurs </div>
                             </div>
                         </div>
                     </div>
@@ -187,7 +199,7 @@
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">A propos</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted">Elaboration du projet.</h3>
                 </div>
                 <ul class="timeline">
                     <li>
@@ -197,7 +209,7 @@
                                 <h4>28 Mai 2021</h4>
                                 <h4 class="subheading">Naissance du projet</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                            <div class="timeline-body"><p class="text-muted">Notre Application est née d'un Projet Informatique devant être développé par deux de mes collègues ainsi que moi en vue de valider notre 4ème Semestre à SupdeCo. Nous nous inspirer des problématiques de la vie quotidienne au niveau des salons de coutures.  !</p></div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
@@ -207,7 +219,7 @@
                                 <h4>03 Juin 2021</h4>
                                 <h4 class="subheading">Première exposition</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                            <div class="timeline-body"><p class="text-muted">Notre première exposition ayant lieu le jeudi 03 Juin 2021  nous a permis d'exposer notre sujet et de répondre aux problématiques rencontrées aux niveaux des salons de couture et la gestion de prise de mesure. De ce fait nous avons eu plusieurs retour de l'encadreur pour une meilleure solution  !</p></div>
                         </div>
                     </li>
                     <li>
@@ -217,17 +229,17 @@
                                 <h4>15 Juin 2021</h4>
                                 <h4 class="subheading">Présentation mi-parcours et finalisations</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                            <div class="timeline-body"><p class="text-muted">La présentation mis-parcours qui va nous permettre de mettre en oeuvre un premier apercu de notre travail et bénéficier des suggestions du superviseur pour analyser les failles de notre projet !</p></div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/4.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>[Date de Fin]</h4>
+                                <h4>01 Juillet 2021</h4>
                                 <h4 class="subheading">Exposition finale et démonstration.</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                            <div class="timeline-body"><p class="text-muted">En ce jour d'exposition finale, éclaircir tout le cursus(sujet,problématique,fonctionalités, outils, codes,problémes rencontrés, etc ) !</p></div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
@@ -237,7 +249,7 @@
                                 <br />
                                 Le
                                 <br />
-                                Mouvement!
+                                Mouvement  !
                             </h4>
                         </div>
                     </li>
@@ -249,7 +261,7 @@
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">L'équipe GnawCoders</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted">Etudiant en licence 2 informatique à Supdeco Point E.</h3>
                 </div>
                 <div class="row">
                     <div class="col-lg-4">
@@ -266,7 +278,7 @@
                         <div class="team-member">
                             <img class="mx-auto rounded-circle" src="assets/img/team/athj.jpg" alt="..." />
                             <h4>Cheikh Ahmadou Bamba Athj</h4>
-                            <p class="text-muted">Apprenti-Ingénieur du logicielr</p>
+                            <p class="text-muted">Apprenti-Ingénieur du logiciel</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
@@ -291,6 +303,8 @@
         <!-- Clients-->
         <div class="py-5">
             <div class="container">
+            <div><h1><center>Nos outils</center></h1></div>
+            <br>
                 <div class="row">
                     <div class="col-md-3 col-sm-6 my-3">
                         <a href="https://www.genymotion.com/"><img class="img-fluid d-block mx-auto" src="assets/img/logos/genymotion.png" alt="" /></a>
@@ -328,7 +342,7 @@
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Contactez-nous</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted">Veuillez remplir ce formulaire svp.</h3>
                 </div>
                 <form id="contactForm">
                     <div class="row align-items-stretch mb-5">
@@ -378,7 +392,7 @@
                         <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
                     </div>
                     <div class="col-lg-4 text-lg-end">
-                        <a class="link-dark text-decoration-none" href="cgu.php">Termes et conditions d'utilisation</a>
+                        <a class="link-dark text-decoration-none" href="#!">Termes et conditions d'utilisation</a>
                     </div>
                 </div>
             </div>
@@ -394,18 +408,18 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <h2 class="text-uppercase">Formation couture</h2>
+                                    <p class="item-intro text-muted">Formations en ligne.</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/1.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p> Envie de vous lancer dans la couture sans prendre de cours ? Et si vous utilisiez la vidéo comme support de formation ? Apprenez les bases grâce à nos vidéos thématiques (techniques, finitions, astuces...) La couture est vraiment à portée de clic...  !</p>
                                     <ul class="list-inline">
                                         <li>
                                             <strong>Client:</strong>
-                                            Threads
+                                            Formation
                                         </li>
                                         <li>
                                             <strong>Category:</strong>
-                                            Illustration
+                                            Cours 
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
@@ -429,18 +443,18 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <h2 class="text-uppercase">Exemple de tissus à acheter </h2>
+                                    <p class="item-intro text-muted">Des habits de valeur .</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/2.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>Pour toutes celles et ceux qui recherchent la qualité, l'esthétique et l'originalité, c'est sur La Mercerie de L'étoile de coton que vous retrouverez les tissus que nous utilisons pour nos créations ...  !</p>
                                     <ul class="list-inline">
                                         <li>
                                             <strong>Client:</strong>
-                                            Explore
+                                            Explorer
                                         </li>
                                         <li>
                                             <strong>Category:</strong>
-                                            Graphic Design
+                                            Des tissus de beauté 
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
@@ -464,18 +478,18 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <h2 class="text-uppercase">Modèle de couture</h2>
+                                    <p class="item-intro text-muted">Découvrir des modèles pour vos habits .</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/3.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>Si vous êtes à la recherche de modèles faciles à réaliser nous avons sélectionné pour vous des tutoriels et patrons de niveau débutant et intermédiaire. Laissez-vous guider... !</p>
                                     <ul class="list-inline">
                                         <li>
                                             <strong>Client:</strong>
-                                            Finish
+                                            Recherche de modèle
                                         </li>
                                         <li>
                                             <strong>Category:</strong>
-                                            Identity
+                                            Modèle
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
