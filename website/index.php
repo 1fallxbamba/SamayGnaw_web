@@ -411,7 +411,7 @@
                                     <h2 class="text-uppercase">Formation couture</h2>
                                     <p class="item-intro text-muted">Formations en ligne.</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/1.jpg" alt="..." />
-                                    <p> Envie de vous lancer dans la couture sans prendre de cours ? Et si vous utilisiez la vidéo comme support de formation ? Apprenez les bases grâce à nos vidéos thématiques (techniques, finitions, astuces...) La couture est vraiment à portée de clic...  !</p>
+                                    <p> Envie de vous lancer dans la couture sans prendre de cours ? Et si vous utilisiez la vidéo comme support de formation ? Apprenez les bases grâce à nos vidéos thématiques (techniques, finitions, astuces...) La couture est vraiment à portée de clic...  !<a href="https://www.youtube.com/watch?v=hYpXPIx4Mz8">cliquez ici</a></p>
                                     <ul class="list-inline">
                                         <li>
                                             <strong>Client:</strong>
@@ -446,7 +446,7 @@
                                     <h2 class="text-uppercase">Exemple de tissus à acheter </h2>
                                     <p class="item-intro text-muted">Des habits de valeur .</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/2.jpg" alt="..." />
-                                    <p>Pour toutes celles et ceux qui recherchent la qualité, l'esthétique et l'originalité, c'est sur La Mercerie de L'étoile de coton que vous retrouverez les tissus que nous utilisons pour nos créations ...  !</p>
+                                    <p>Pour toutes celles et ceux qui recherchent la qualité, l'esthétique et l'originalité, c'est sur La Mercerie de L'étoile de coton que vous retrouverez les tissus que nous utilisons pour nos créations ...  ! <a href="https://wuriba.com/">Cliquez et choisir son choix</a></p>
                                     <ul class="list-inline">
                                         <li>
                                             <strong>Client:</strong>
@@ -481,7 +481,7 @@
                                     <h2 class="text-uppercase">Modèle de couture</h2>
                                     <p class="item-intro text-muted">Découvrir des modèles pour vos habits .</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/3.jpg" alt="..." />
-                                    <p>Si vous êtes à la recherche de modèles faciles à réaliser nous avons sélectionné pour vous des tutoriels et patrons de niveau débutant et intermédiaire. Laissez-vous guider... !</p>
+                                    <p>Si vous êtes à la recherche de modèles faciles à réaliser nous avons sélectionné pour vous des tutoriels et patrons de niveau débutant et intermédiaire. Laissez-vous guider... ! <a href="https://www.pinterest.fr/nouma1318/tenues-s%C3%A9n%C3%A9galaise-hommefemme/">Cliquez ici</a></p>
                                     <ul class="list-inline">
                                         <li>
                                             <strong>Client:</strong>
@@ -513,18 +513,18 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <h2 class="text-uppercase">Matériels</h2>
+                                    <p class="item-intro text-muted">Tous les matériels nécessaires.</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/4.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p><a href="https://www.ateliercharlotteauzou.com/blogs/journal/les-outils-pour-debuter-et-progresser-en-couture">cliquez ici</a>!</p>
                                     <ul class="list-inline">
                                         <li>
                                             <strong>Client:</strong>
-                                            Lines
+                                            Savoir 
                                         </li>
                                         <li>
                                             <strong>Category:</strong>
-                                            Branding
+                                            Matériels de couture
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
@@ -548,18 +548,18 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <h2 class="text-uppercase">Guide</h2>
+                                    <p class="item-intro text-muted">Guide pour prendre des mesures des gens .</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/5.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>Nous allons vous montrer comment prendre les mesures des gens pour une meilleure organisation <a href="https://www.pinterest.fr/nouma1318/tenues-s%C3%A9n%C3%A9galaise-hommefemme/">Cliquez ici</a>!</p>
                                     <ul class="list-inline">
                                         <li>
                                             <strong>Client:</strong>
-                                            Southwest
+                                            Connaissance 
                                         </li>
                                         <li>
                                             <strong>Category:</strong>
-                                            Website Design
+                                            Guide pour prendre mesure
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
@@ -583,18 +583,18 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <h2 class="text-uppercase">Risques</h2>
+                                    <p class="item-intro text-muted">Les risques du métier .</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/6.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <p>Comme dans toute entreprise du secteur textile, les risques professionnels sont liés en majorité aux postures contraignantes, aux gestes répétitifs et aux manutentions qui génèrent des troubles musculo-squelettiques (TMS). S'y ajoutent les risques de coupures, la fatigue visuelle et nerveuse.<a href="https://www.officiel-prevention.com/dossier/formation/fiches-metier/la-prevention-des-risques-dans-les-industries-textiles">Cliquez ici</a>!</p>
                                     <ul class="list-inline">
                                         <li>
                                             <strong>Client:</strong>
-                                            Window
+                                            Connaitre
                                         </li>
                                         <li>
                                             <strong>Category:</strong>
-                                            Photography
+                                            Savoir les risques du métier
                                         </li>
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">

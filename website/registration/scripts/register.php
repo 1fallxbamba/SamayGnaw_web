@@ -33,7 +33,7 @@
             // Password hash
             $password_hash = password_hash($password, PASSWORD_DEFAULT);
 
-            $sql = $connection->query("INSERT INTO requests (name, adresse, tel, email, shadow) 
+            $sql = $connection->query("INSERT INTO requests (nom, adresse, tel, email, shadow,date) 
             VALUES ('{$name}', '{$adresse}','{$mobile}', '{$email}', '{$password_hash}', now())");
             
                 if(!$sql){
@@ -42,6 +42,7 @@
                     $success_msg = '<div class="alert alert-success">
                         User registered successfully!
                 </div>';
+                
                 }
             }
         } else {
@@ -72,4 +73,5 @@
             }            
         }
     }
+   
 ?>

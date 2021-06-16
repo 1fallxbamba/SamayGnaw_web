@@ -1,11 +1,9 @@
-
  
 <?php
 session_start();
 require_once('db.php');
 
-
-if(isset($_POST['Envoyer']))
+if(isset($_POST['submit']))
 {
     if(isset($_POST['name'],$_POST['adresse'],$_POST['tel'],$_POST['email']) && !empty($_POST['name']) && !empty($_POST['adresse']) && !empty($_POST['tel']) && !empty($_POST['email'])&& !empty($_POST['password']))
     {
@@ -19,18 +17,15 @@ if(isset($_POST['Envoyer']))
         if(filter_var($email, FILTER_VALIDATE_EMAIL))
 		{
             $sql = 'select * from requests where email = :email';
-            $pdo = new PDO($name,$adresse,$tel,$email,$password);
-            $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
             $stmt = $pdo->prepare($sql);
             $p = ['email'=>$email];
             $stmt->execute($p);
             
             if($stmt->rowCount() == 0)
             {
-                $sql = "insert into requests (nom, adresse,tel, email, shadow,) values(:name,:adresse,:tel,:password)";
-                
+                $sql = "INSERT INTO  requests (nom, adresse,tel, email, shadow,) values(:name,:adresse,:tel,:password)";
+            
                 try{
-                    
                     $handle = $pdo->prepare($sql);
                     $params = [
                         ':name'=>$name,
@@ -163,7 +158,7 @@ if(isset($_POST['Envoyer']))
 					<input type="password" name="password" placeholder="Enter Password" class="form-control" value="<?php echo ($valPassword??'')?>">
 				</div>
 
-				<button type="Envoyer" name="Envoyer" class="btn btn-primary">Envoyer</button>
+				<button type="submit" name="submit" class="btn btn-primary">Submit</button>
 				
 				
 			</form>
