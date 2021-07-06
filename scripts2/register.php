@@ -41,13 +41,9 @@
                 } else {
                     $success_msg = '<script >
                     alert("Inscription reussie");
-           </script>';
-          
-                  
-            header("index.php");
-            
-                   
+           </script>';       
                 }
+                
             }
         } else {
             if(empty($name)){
@@ -77,8 +73,6 @@
             }            
         }
     }
-
-    
    
 ?>
 

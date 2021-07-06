@@ -32,7 +32,7 @@
                         <!--<li class="nav-item"><a class="nav-link" href="#about">A Propos</a></li>
                         <li class="nav-item"><a class="nav-link" href="#team">L'équipe</a></li>-->
                         <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
-                        <li class="nav-item"><a class="nav-link" href="index2.php">S'inscrire</a></li>
+                       <li class="nav-item"><a class="nav-link" href="index2.php" style= background-color:cornflowerblue>S'inscrire</a></li>
 
                     </ul>
                 </div>
@@ -42,7 +42,7 @@
         <header class="masthead">
             <div class="container">
                 <div class="masthead-subheading">Bienvenue sur SamayGnaw !</div>
-                <div class="masthead-heading text-uppercase">L'intermédiaire entre le tailleur et sa clientèle.</div>
+                <div class="masthead-heading text-uppercase">L'intermédiaire entre le tailleur <br> et sa clientèle.</div>
                 <a class="btn btn-primary btn-xl text-uppercase" href="#services">Dites m'en plus</a>
             </div>
         </header>
@@ -415,7 +415,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Formation couture</h2>
                                     <p class="item-intro text-muted">Formations en ligne.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/1.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/16.jpg" alt="..." />
                                     <p> Envie de vous lancer dans la couture sans prendre de cours ? Et si vous utilisiez la vidéo comme support de formation ? Apprenez les bases grâce à nos vidéos thématiques (techniques, finitions, astuces...) La couture est vraiment à portée de clic...  !<a href="https://www.youtube.com/watch?v=hYpXPIx4Mz8">cliquez ici</a></p>
                                     <ul class="list-inline">
                                         <li>
@@ -450,7 +450,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Exemple de tissus à acheter </h2>
                                     <p class="item-intro text-muted">Des habits de valeur .</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/2.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/2.jpg" alt="..." />
                                     <p>Pour toutes celles et ceux qui recherchent la qualité, l'esthétique et l'originalité, c'est sur La Mercerie de L'étoile de coton que vous retrouverez les tissus que nous utilisons pour nos créations ...  ! <a href="https://wuriba.com/">Cliquez et choisir son choix</a></p>
                                     <ul class="list-inline">
                                         <li>
@@ -485,7 +485,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Modèle de couture</h2>
                                     <p class="item-intro text-muted">Découvrir des modèles pour vos habits .</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/3.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/9.jpg" alt="..." />
                                     <p>Si vous êtes à la recherche de modèles faciles à réaliser nous avons sélectionné pour vous des tutoriels et patrons de niveau débutant et intermédiaire. Laissez-vous guider... ! <a href="https://www.pinterest.fr/nouma1318/tenues-s%C3%A9n%C3%A9galaise-hommefemme/">Cliquez ici</a></p>
                                     <ul class="list-inline">
                                         <li>
@@ -520,7 +520,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Matériels</h2>
                                     <p class="item-intro text-muted">Tous les matériels nécessaires.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/4.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/3.jpg" alt="..." />
                                     <p><a href="https://www.ateliercharlotteauzou.com/blogs/journal/les-outils-pour-debuter-et-progresser-en-couture">cliquez ici</a>!</p>
                                     <ul class="list-inline">
                                         <li>
@@ -590,7 +590,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Risques</h2>
                                     <p class="item-intro text-muted">Les risques du métier .</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/6.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/7.jpg" alt="..." />
                                     <p>Comme dans toute entreprise du secteur textile, les risques professionnels sont liés en majorité aux postures contraignantes, aux gestes répétitifs et aux manutentions qui génèrent des troubles musculo-squelettiques (TMS). S'y ajoutent les risques de coupures, la fatigue visuelle et nerveuse.<a href="https://www.officiel-prevention.com/dossier/formation/fiches-metier/la-prevention-des-risques-dans-les-industries-textiles">Cliquez ici</a>!</p>
                                     <ul class="list-inline">
                                         <li>
